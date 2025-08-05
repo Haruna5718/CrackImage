@@ -33,6 +33,7 @@ ex) ![](https://crac.kro.kr/Haruna.png)
 2. Github에 도메인 추가하기
 3. Repository 생성하고 Pages 활성화하기
 4. Pages에 도메인 연결하기
+
 ---
 <br><br>
 
